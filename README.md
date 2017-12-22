@@ -48,11 +48,17 @@ run:
 
 
 Wire Connection:
+
 Connect only 4 pins if using raspberry pi.
+
 VCC -> 5v pin of raspberry pi
+
 GND -> Ground Pin of raspberry pi
+
 SCL -> SCL pin of raspberry pi
+
 SDA -> SDA pin of raspberry pi
+
 
 That's it.
 
