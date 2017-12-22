@@ -32,6 +32,9 @@ sudo java -jar sensors.jar
 
 
 
+![img_20171222_211234](https://user-images.githubusercontent.com/859865/34304828-373873da-e75d-11e7-859f-bc15c9649916.jpg)
+
+
 Special Thanks to Referenced c-language source code: (If you want the c version of the code you can use this zip)
 http://roboturka.com/wp-content/uploads/GY-91.zip
 or you can find the c code in this repo as well.
