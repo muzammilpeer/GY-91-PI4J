@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sensors:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sensors_jar</output-path>
+    <root id="archive" name="sensors.jar">
+      <element id="module-output" name="sensors" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-core/1.2-SNAPSHOT/pi4j-core-1.2-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-gpio-extension/1.2-SNAPSHOT/pi4j-gpio-extension-1.2-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-device/1.2-SNAPSHOT/pi4j-device-1.2-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
